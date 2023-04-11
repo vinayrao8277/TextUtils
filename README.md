@@ -2,8 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-TextUtils - Word Counter || Character Counter || Remove Extra Space || Clear Text || Copy to Clipboard || Uppercase to Lowercase || Lowercase to Uppercase.....
-Link:-
+TextUtils - Word Counter || Character Counter || Remove Extra Space || Clear Text || Copy to Clipboard || Uppercase to Lowercase || Lowercase to Uppercase...!
+
+Website Link:-
 https://vinayrao8277.github.io/TextUtils/
 
 ## Available Scripts
